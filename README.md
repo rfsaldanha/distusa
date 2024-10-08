@@ -1,1 +1,1 @@
-# distusa
+This repository present scripts to compute a road distance and trip duration matrix between USA counties. More details and the results are available at https://rfsaldanha.github.io/data-projects/usa_road_distances.html
